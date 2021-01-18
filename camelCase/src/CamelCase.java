@@ -25,6 +25,5 @@ public class CamelCase{
 		List<String> lista = Arrays.asList(palavras);
 		return lista;
 	}
-	
 }
 	
