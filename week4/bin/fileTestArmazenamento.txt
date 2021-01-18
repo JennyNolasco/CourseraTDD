@@ -1,0 +1,10 @@
+Usuario Jenny
+Pontos estrela 100
+Pontos moeda 200
+Usuario Ferreira
+Usuario Iris
+Usuario Jeferson
+Pontos moeda 200
+Pontos estrela 100
+Usuario UsuarioTest
+Pontos moeda 600
